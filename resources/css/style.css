@@ -4,10 +4,28 @@ body {
   text-align: center;
 }
 
-h1 {
+footer {
+  text-align: right;
+}
+
+h1,
+h2 {
   color: white;
+}
+
+h1 {
   font-weight: normal;
   font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
 }
 
 .link {
